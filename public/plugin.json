@@ -1,0 +1,20 @@
+{
+  "pluginName": "utools-plugin-template",
+  "author": "lanyuanxiaoyao",
+  "homepage": "http://lanyuanxiaoyao.com",
+  "description": "description",
+  "version": "0.0.1",
+  "logo": "logo.png",
+  "main": "index.html",
+  "preload": "preload.js",
+  "pluginSetting": {
+    "single": true
+  },
+  "features": [
+    {
+      "code": "utools",
+      "explain": "explain",
+      "cmds": ["utools"]
+    }
+  ]
+}
